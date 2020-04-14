@@ -1,24 +1,20 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Grammable
 
-Things you may want to cover:
+Grammable allows you to create an account, post images with captions, and comment on images. 
 
-* Ruby version
+Ruby version
+2.5.3
 
-* System dependencies
+Try it out
 
-* Configuration
+Go to https://grammable-courtney-fink.herokuapp.com/ to explore or create an account. 
 
-* Database creation
+Tools used
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+-Bootstrap
+-Heroku
+-Devise
+-FactoryBot
+-Carrierwave
